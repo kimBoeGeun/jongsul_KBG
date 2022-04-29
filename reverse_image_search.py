@@ -4,7 +4,7 @@ from serpapi import GoogleSearch
 params = {
     "engine": "google_reverse_image",
     "image_url": "https://jongsul.s3.amazonaws.com/samplepng8.jpg",                  #image url !!!!!!!!!!!1
-    "api_key": ""
+    "api_key": ""                   #api key!!!
     }
 
 #get API response
